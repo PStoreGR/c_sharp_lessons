@@ -1,0 +1,7 @@
+C:\Users\guita\source\repos\Lesson12-1\Lesson12-1\bin\Debug\Lesson12-1.exe.config
+C:\Users\guita\source\repos\Lesson12-1\Lesson12-1\bin\Debug\Lesson12-1.exe
+C:\Users\guita\source\repos\Lesson12-1\Lesson12-1\bin\Debug\Lesson12-1.pdb
+C:\Users\guita\source\repos\Lesson12-1\Lesson12-1\obj\Debug\Lesson12-1.csprojAssemblyReference.cache
+C:\Users\guita\source\repos\Lesson12-1\Lesson12-1\obj\Debug\Lesson12-1.csproj.CoreCompileInputs.cache
+C:\Users\guita\source\repos\Lesson12-1\Lesson12-1\obj\Debug\Lesson12-1.exe
+C:\Users\guita\source\repos\Lesson12-1\Lesson12-1\obj\Debug\Lesson12-1.pdb
