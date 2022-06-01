@@ -1,0 +1,7 @@
+C:\Users\guita\source\repos\TelikesExetaseis\TelikesExetaseis\obj\Debug\TelikesExetaseis.csprojAssemblyReference.cache
+C:\Users\guita\source\repos\TelikesExetaseis\TelikesExetaseis\obj\Debug\TelikesExetaseis.csproj.CoreCompileInputs.cache
+C:\Users\guita\source\repos\TelikesExetaseis\TelikesExetaseis\bin\Debug\TelikesExetaseis.exe.config
+C:\Users\guita\source\repos\TelikesExetaseis\TelikesExetaseis\bin\Debug\TelikesExetaseis.exe
+C:\Users\guita\source\repos\TelikesExetaseis\TelikesExetaseis\bin\Debug\TelikesExetaseis.pdb
+C:\Users\guita\source\repos\TelikesExetaseis\TelikesExetaseis\obj\Debug\TelikesExetaseis.exe
+C:\Users\guita\source\repos\TelikesExetaseis\TelikesExetaseis\obj\Debug\TelikesExetaseis.pdb

@@ -1,0 +1,16 @@
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\bin\Debug\net5.0\Lesson9Ex3.exe
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\bin\Debug\net5.0\Lesson9Ex3.deps.json
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\bin\Debug\net5.0\Lesson9Ex3.runtimeconfig.json
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\bin\Debug\net5.0\Lesson9Ex3.runtimeconfig.dev.json
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\bin\Debug\net5.0\Lesson9Ex3.dll
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\bin\Debug\net5.0\ref\Lesson9Ex3.dll
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\bin\Debug\net5.0\Lesson9Ex3.pdb
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\obj\Debug\net5.0\Lesson9Ex3.csprojAssemblyReference.cache
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\obj\Debug\net5.0\Lesson9Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\obj\Debug\net5.0\Lesson9Ex3.AssemblyInfoInputs.cache
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\obj\Debug\net5.0\Lesson9Ex3.AssemblyInfo.cs
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\obj\Debug\net5.0\Lesson9Ex3.csproj.CoreCompileInputs.cache
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\obj\Debug\net5.0\Lesson9Ex3.dll
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\obj\Debug\net5.0\ref\Lesson9Ex3.dll
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\obj\Debug\net5.0\Lesson9Ex3.pdb
+C:\Users\guita\source\repos\Lesson9Ex3\Lesson9Ex3\obj\Debug\net5.0\Lesson9Ex3.genruntimeconfig.cache

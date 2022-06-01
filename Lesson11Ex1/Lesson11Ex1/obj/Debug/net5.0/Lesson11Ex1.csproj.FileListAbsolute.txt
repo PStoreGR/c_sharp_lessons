@@ -1,0 +1,16 @@
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\bin\Debug\net5.0\Lesson11Ex1.exe
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\bin\Debug\net5.0\Lesson11Ex1.deps.json
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\bin\Debug\net5.0\Lesson11Ex1.runtimeconfig.json
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\bin\Debug\net5.0\Lesson11Ex1.runtimeconfig.dev.json
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\bin\Debug\net5.0\Lesson11Ex1.dll
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\bin\Debug\net5.0\ref\Lesson11Ex1.dll
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\bin\Debug\net5.0\Lesson11Ex1.pdb
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\obj\Debug\net5.0\Lesson11Ex1.csprojAssemblyReference.cache
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\obj\Debug\net5.0\Lesson11Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\obj\Debug\net5.0\Lesson11Ex1.AssemblyInfoInputs.cache
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\obj\Debug\net5.0\Lesson11Ex1.AssemblyInfo.cs
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\obj\Debug\net5.0\Lesson11Ex1.csproj.CoreCompileInputs.cache
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\obj\Debug\net5.0\Lesson11Ex1.dll
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\obj\Debug\net5.0\ref\Lesson11Ex1.dll
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\obj\Debug\net5.0\Lesson11Ex1.pdb
+C:\Users\guita\source\repos\Lesson11Ex1\Lesson11Ex1\obj\Debug\net5.0\Lesson11Ex1.genruntimeconfig.cache
