@@ -1,0 +1,13 @@
+C:\Users\guita\source\repos\Lesson9Ex2\Lesson9Ex2\bin\Debug\netcoreapp3.1\Lesson9Ex2.exe
+C:\Users\guita\source\repos\Lesson9Ex2\Lesson9Ex2\bin\Debug\netcoreapp3.1\Lesson9Ex2.deps.json
+C:\Users\guita\source\repos\Lesson9Ex2\Lesson9Ex2\bin\Debug\netcoreapp3.1\Lesson9Ex2.runtimeconfig.json
+C:\Users\guita\source\repos\Lesson9Ex2\Lesson9Ex2\bin\Debug\netcoreapp3.1\Lesson9Ex2.runtimeconfig.dev.json
+C:\Users\guita\source\repos\Lesson9Ex2\Lesson9Ex2\bin\Debug\netcoreapp3.1\Lesson9Ex2.dll
+C:\Users\guita\source\repos\Lesson9Ex2\Lesson9Ex2\bin\Debug\netcoreapp3.1\Lesson9Ex2.pdb
+C:\Users\guita\source\repos\Lesson9Ex2\Lesson9Ex2\obj\Debug\netcoreapp3.1\Lesson9Ex2.csprojAssemblyReference.cache
+C:\Users\guita\source\repos\Lesson9Ex2\Lesson9Ex2\obj\Debug\netcoreapp3.1\Lesson9Ex2.AssemblyInfoInputs.cache
+C:\Users\guita\source\repos\Lesson9Ex2\Lesson9Ex2\obj\Debug\netcoreapp3.1\Lesson9Ex2.AssemblyInfo.cs
+C:\Users\guita\source\repos\Lesson9Ex2\Lesson9Ex2\obj\Debug\netcoreapp3.1\Lesson9Ex2.csproj.CoreCompileInputs.cache
+C:\Users\guita\source\repos\Lesson9Ex2\Lesson9Ex2\obj\Debug\netcoreapp3.1\Lesson9Ex2.dll
+C:\Users\guita\source\repos\Lesson9Ex2\Lesson9Ex2\obj\Debug\netcoreapp3.1\Lesson9Ex2.pdb
+C:\Users\guita\source\repos\Lesson9Ex2\Lesson9Ex2\obj\Debug\netcoreapp3.1\Lesson9Ex2.genruntimeconfig.cache

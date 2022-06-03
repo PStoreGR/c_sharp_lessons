@@ -1,0 +1,16 @@
+C:\Users\guita\source\repos\Lesson11\Lesson11\bin\Debug\net5.0\Lesson11.exe
+C:\Users\guita\source\repos\Lesson11\Lesson11\bin\Debug\net5.0\Lesson11.deps.json
+C:\Users\guita\source\repos\Lesson11\Lesson11\bin\Debug\net5.0\Lesson11.runtimeconfig.json
+C:\Users\guita\source\repos\Lesson11\Lesson11\bin\Debug\net5.0\Lesson11.runtimeconfig.dev.json
+C:\Users\guita\source\repos\Lesson11\Lesson11\bin\Debug\net5.0\Lesson11.dll
+C:\Users\guita\source\repos\Lesson11\Lesson11\bin\Debug\net5.0\ref\Lesson11.dll
+C:\Users\guita\source\repos\Lesson11\Lesson11\bin\Debug\net5.0\Lesson11.pdb
+C:\Users\guita\source\repos\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.csprojAssemblyReference.cache
+C:\Users\guita\source\repos\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\source\repos\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.AssemblyInfoInputs.cache
+C:\Users\guita\source\repos\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.AssemblyInfo.cs
+C:\Users\guita\source\repos\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.csproj.CoreCompileInputs.cache
+C:\Users\guita\source\repos\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.dll
+C:\Users\guita\source\repos\Lesson11\Lesson11\obj\Debug\net5.0\ref\Lesson11.dll
+C:\Users\guita\source\repos\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.pdb
+C:\Users\guita\source\repos\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.genruntimeconfig.cache
